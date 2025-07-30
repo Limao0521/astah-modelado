@@ -16,6 +16,6 @@ astah-modelado/
 
 ## 📷 Capturas / Diagrama exportado
 
-![Diagrama de clases](imagenes/citas)
+![Diagrama de clases](imagenes/citas.png)
 
-![Diagrama de clases](imagenes/concesionario)
+![Diagrama de clases](imagenes/concesionario.png)
